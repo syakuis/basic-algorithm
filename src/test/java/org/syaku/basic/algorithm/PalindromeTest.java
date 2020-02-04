@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * palindrome(회문) 앞에서 읽으나 뒤에서 읽으나 값은 문자열
+ * palindrome(회문) 앞에서 읽으나 뒤에서 읽으나 같은 문자열
  * @author Seok Kyun. Choi.
  * @since 2020/02/04
  */
